@@ -1,4 +1,4 @@
-## =)
+## ---> \forall \eps > 0 \exists N: \forall k, m > N || x_k - x_m || < \eps <---
 
 <!--
 **lambdadeltaD7/lambdadeltaD7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
